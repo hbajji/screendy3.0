@@ -2,7 +2,10 @@
 ## Welcome to ScreenDy 3.0 !
 
 ScreenDy is a cloud-based mobile platform which allows you to create 100% NATIVE, CUSTOM and mobile optimised apps, and then deploy them on Mobile, Tablet, Connected Tv and other new platform in the future ... With ScreenDy you can use the web technologies like HTML, CSS, and Javascript to generate 100% Native apps. It’s a visual development environment that makes it super easy and fast to build mobile UI, define Feeds services, map services to UI, and even test the app. However you are not limited by the visual builder. You can use our code editors or any custom JavaScript, HTML5 or CSS to create any functionality you want! The final app is NATIVE and can be easily installed on the device.
-https://www.youtube.com/embed/j1gy-cxwVCM
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=j1gy-cxwVCM
+" target="_blank"><img src="http://img.youtube.com/vi/j1gy-cxwVCM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="80%" border="10" /></a>
 
 ``` NB
 The platform is currently in beta state. We're developing quickly and carefully,
